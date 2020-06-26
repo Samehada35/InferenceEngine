@@ -1,0 +1,158 @@
+# depslib dependency file v1.0
+1561677603 source:c:\users\pc\desktop\moteurinference\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"UBSCAT/src/ubcsat.h"
+
+1209723095 source:c:\users\pc\desktop\moteurinference\ubscat\src\adaptnovelty.c
+	"ubcsat.h"
+
+1209723095 c:\users\pc\desktop\moteurinference\ubscat\src\ubcsat.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"ubcsat-limits.h"
+	"ubcsat-types.h"
+	"ubcsat-lit.h"
+	"ubcsat-mem.h"
+	"ubcsat-time.h"
+	"ubcsat-io.h"
+	"ubcsat-internal.h"
+	"ubcsat-globals.h"
+	"ubcsat-triggers.h"
+	"algorithms.h"
+	"reports.h"
+	"mylocal.h"
+
+1209723094 c:\users\pc\desktop\moteurinference\ubscat\src\ubcsat-limits.h
+
+1209723095 c:\users\pc\desktop\moteurinference\ubscat\src\ubcsat-types.h
+
+1209723094 c:\users\pc\desktop\moteurinference\ubscat\src\ubcsat-lit.h
+
+1209723094 c:\users\pc\desktop\moteurinference\ubscat\src\ubcsat-mem.h
+
+1209723095 c:\users\pc\desktop\moteurinference\ubscat\src\ubcsat-time.h
+	<sys/timeb.h>
+	<unistd.h>
+	<sys/time.h>
+	<sys/times.h>
+
+1209723094 c:\users\pc\desktop\moteurinference\ubscat\src\ubcsat-io.h
+
+1209723094 c:\users\pc\desktop\moteurinference\ubscat\src\ubcsat-internal.h
+
+1209723094 c:\users\pc\desktop\moteurinference\ubscat\src\ubcsat-globals.h
+
+1210357206 c:\users\pc\desktop\moteurinference\ubscat\src\ubcsat-triggers.h
+
+1209727913 c:\users\pc\desktop\moteurinference\ubscat\src\algorithms.h
+
+1210357206 c:\users\pc\desktop\moteurinference\ubscat\src\reports.h
+
+1209723094 c:\users\pc\desktop\moteurinference\ubscat\src\mylocal.h
+
+1209727913 source:c:\users\pc\desktop\moteurinference\ubscat\src\algorithms.c
+	"ubcsat.h"
+
+1209723095 source:c:\users\pc\desktop\moteurinference\ubscat\src\ddfw.c
+	"ubcsat.h"
+
+1209723095 source:c:\users\pc\desktop\moteurinference\ubscat\src\derandomized.c
+	"ubcsat.h"
+
+1209723095 source:c:\users\pc\desktop\moteurinference\ubscat\src\g2wsat.c
+	"ubcsat.h"
+
+1209723095 source:c:\users\pc\desktop\moteurinference\ubscat\src\gsat-tabu.c
+	"ubcsat.h"
+
+1209723094 source:c:\users\pc\desktop\moteurinference\ubscat\src\gsat.c
+	"ubcsat.h"
+
+1209723095 source:c:\users\pc\desktop\moteurinference\ubscat\src\gwsat.c
+	"ubcsat.h"
+
+1209723094 source:c:\users\pc\desktop\moteurinference\ubscat\src\hsat.c
+	"ubcsat.h"
+
+1209723094 source:c:\users\pc\desktop\moteurinference\ubscat\src\hwsat.c
+	"ubcsat.h"
+
+1209723094 source:c:\users\pc\desktop\moteurinference\ubscat\src\irots.c
+	"ubcsat.h"
+
+1209723094 source:c:\users\pc\desktop\moteurinference\ubscat\src\mt19937ar.c
+	<stdio.h>
+
+1209723094 source:c:\users\pc\desktop\moteurinference\ubscat\src\mylocal.c
+	"ubcsat.h"
+
+1209727913 source:c:\users\pc\desktop\moteurinference\ubscat\src\novelty+p.c
+	"ubcsat.h"
+
+1209723095 source:c:\users\pc\desktop\moteurinference\ubscat\src\novelty.c
+	"ubcsat.h"
+
+1209723094 source:c:\users\pc\desktop\moteurinference\ubscat\src\parameters.c
+	"ubcsat.h"
+
+1209723095 source:c:\users\pc\desktop\moteurinference\ubscat\src\paws.c
+	"ubcsat.h"
+
+1209723094 source:c:\users\pc\desktop\moteurinference\ubscat\src\random.c
+	"ubcsat.h"
+
+1210357206 source:c:\users\pc\desktop\moteurinference\ubscat\src\reports.c
+	"ubcsat.h"
+
+1209723095 source:c:\users\pc\desktop\moteurinference\ubscat\src\rgsat.c
+	"ubcsat.h"
+
+1209723095 source:c:\users\pc\desktop\moteurinference\ubscat\src\rnovelty.c
+	"ubcsat.h"
+
+1209723095 source:c:\users\pc\desktop\moteurinference\ubscat\src\rots.c
+	"ubcsat.h"
+
+1209723094 source:c:\users\pc\desktop\moteurinference\ubscat\src\samd.c
+	"ubcsat.h"
+
+1209723094 source:c:\users\pc\desktop\moteurinference\ubscat\src\saps.c
+	"ubcsat.h"
+
+1210358192 source:c:\users\pc\desktop\moteurinference\ubscat\src\ubcsat-help.c
+	"ubcsat.h"
+
+1209723094 source:c:\users\pc\desktop\moteurinference\ubscat\src\ubcsat-internal.c
+	"ubcsat.h"
+
+1209723094 source:c:\users\pc\desktop\moteurinference\ubscat\src\ubcsat-io.c
+	"ubcsat.h"
+
+1209723094 source:c:\users\pc\desktop\moteurinference\ubscat\src\ubcsat-mem.c
+	"ubcsat.h"
+
+1210357206 source:c:\users\pc\desktop\moteurinference\ubscat\src\ubcsat-reports.c
+	"ubcsat.h"
+
+1209723094 source:c:\users\pc\desktop\moteurinference\ubscat\src\ubcsat-time.c
+	"ubcsat.h"
+
+1210357206 source:c:\users\pc\desktop\moteurinference\ubscat\src\ubcsat-triggers.c
+	"ubcsat.h"
+
+1561677646 source:c:\users\pc\desktop\moteurinference\ubscat\src\ubcsat.c
+	"ubcsat.h"
+
+1209729089 source:c:\users\pc\desktop\moteurinference\ubscat\src\vw.c
+	"ubcsat.h"
+
+1209723095 source:c:\users\pc\desktop\moteurinference\ubscat\src\walksat-tabu.c
+	"ubcsat.h"
+
+1209723095 source:c:\users\pc\desktop\moteurinference\ubscat\src\walksat.c
+	"ubcsat.h"
+

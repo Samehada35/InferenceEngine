@@ -1,0 +1,34 @@
+1-Na
+2-Nb
+3-Nc
+4-Cea
+5-Ceb
+6-Cec
+7-Ma
+8-Mb
+9-Mc
+10-Coa
+11-Cob
+12-Coc
+
+c1=nonNa ou Cea
+c2=nonNb ou Ceb
+c3=nonNc ou Cec
+c4=nonCea ou Ma
+c5=nonCeb ou Mb
+c6=nonCec ou Mc
+c7=nonNa ou Coa
+c8=nonNb ou Cob
+c9=nonNc ou Coc
+c10=Na
+c11=Ceb
+c12=Mc
+c13=nonCea ou Na ou nonCoa
+c14=nonCeb ou Nb ou nonCob
+c15=nonCec ou Nc ou nonCoc
+c16=nonMa ou Cea ou Coa
+c17=nonMa ou nonNa ou Coa
+c18=nonMb ou Ceb ou Cob
+c19=nonMb ou nonNb ou Cob
+c20=nonMb ou Ceb ou Cob
+c21=nonMb ou nonNb ou Cob
